@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darwin Alexander Co
 - 👀 I’m a BS Applied Physics student at the National Institute of Physics
-- 🌱 I’m currently under the Nuclear and Hadron Physics Group
+- 🌱 I’m a member of the Nuclear and Hadron Physics Group
 - 📫 You can reach me at doco@up.edu.ph
 
 <!---
