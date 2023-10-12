@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Darwin Alexander Co
 - 👀 I’m a BS Applied Physics student at the National Institute of Physics, UP Diliman
 - 🌱 I’m a member of the Nuclear and Hadron Physics Group of GANAP@NIP
-- 📫 You can reach me at doco@up.edu.ph
 
 <!---
 darwinnerco/darwinnerco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
