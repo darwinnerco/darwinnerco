@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darwin Alexander Co
-- 👀 I’m a BS Applied Physics student at the National Institute of Physics, UP Diliman
+- 👀 I’m an MS Physics student at the National Institute of Physics, UP Diliman
 - 🌱 I’m a member of the Nuclear and Hadron Physics Group of GANAP@NIP
 
 <!---
