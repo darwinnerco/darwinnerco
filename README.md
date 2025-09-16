@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darwin Alexander Co
-- 👀 I’m a BS Applied Physics graduate from the University of the Philippines Diliman
-- 🌱 I’m a member of the Nuclear and Hadron Physics Research Group of the National Institute of Physics
+- 👀 I’m an MS Physics student at the Graduate School of Science, The University of Osaka
+- 🌱 I'm a member of the Charm Baryon Spectroscopy Group at the Research Center for Nuclear Physics
 
 <!---
 darwinnerco/darwinnerco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
